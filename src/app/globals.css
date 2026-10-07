@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+/* ─── EFIT DESIGN TOKENS ─── */
+@theme {
+  /* ─── DEEP NAVY SPECTRUM ─── */
+  --color-deep-navy: #071426;
+  --color-midnight-blue: #0B1F3A;
+  --color-blue-gray: #132A46;
+  
+  /* ─── ACCENT BLUES ─── */
+  --color-royal-blue: #1D4ED8;
+  --color-blue-1: #2563EB; /* EFIT Blue */
+  --color-blue-2: #60A5FA; /* Light Blue */
+  --color-blue-3: #BFDBFE; /* Ice Blue */
+  
+  /* ─── NEUTRALS ─── */
+  --color-white-pure: #FFFFFF;
+  --color-white: #ffffff;
+  --color-white-muted: #F5F7FA; /* Soft White */
+  --color-white-dim: #A5ADB8;
+  --color-black: #05070B; /* Near Black */
+  
+  /* ─── SEMANTIC MAPPING ─── */
+  --color-background: var(--color-deep-navy);
+  --color-surface: var(--color-midnight-blue);
+  --color-surface-hover: #132a46;
+  --color-border: var(--color-blue-gray);
+  --color-border-hover: #22436e;
+  --color-text-primary: var(--color-white-muted);
+  
+  /* ─── GEOMETRY ─── */
+  --radius-shell: 32px;
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 12px;
+  --radius-pill: 9999px;
+  --nav-height: 72px;
+
+  /* Typography */
+  --font-display: 'Satoshi', sans-serif;
+  --font-editorial: 'Clash Display', sans-serif;
+  --font-sans: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Custom Easing for motion */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ─── GLOBAL STYLES ─── */
+:root {
+  color-scheme: dark;
+}
+
+html, body {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  font-family: var(--font-sans);
+  /* The body background is the absolute backdrop. The actual site content will be wrapped in the shell. */
+}
+
+/* Remove default scrolling if Lenis handles it, but keep fallback */
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+::selection {
+  background-color: var(--color-blue-2);
+  color: var(--color-white);
+}
+
+/* Utilities */
+.glass {
+  background: rgba(7, 9, 12, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--color-border);
+}
+
+.card-hover-fx {
+  transition: transform 0.4s var(--ease-out-expo), border-color 0.4s var(--ease-out-expo);
+}
+.card-hover-fx:hover {
+  transform: translateY(-4px) scale(1.01);
+  border-color: var(--color-border-hover);
+}

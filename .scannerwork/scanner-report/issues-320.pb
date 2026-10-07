@@ -1,0 +1,778 @@
+I
+
+javascriptS3504)Unexpected var, use let or const instead.2		 €@I
+
+javascriptS3504)Unexpected var, use let or const instead.2
+
+ ≤@I
+
+javascriptS3504)Unexpected var, use let or const instead.2 …@I
+
+javascriptS3504)Unexpected var, use let or const instead.2 µ@I
+
+javascriptS3504)Unexpected var, use let or const instead.2 ∂@b
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2 N
+
+javascriptS7773-Prefer `Number.parseFloat` over `parseFloat`.2!! $@N
+
+javascriptS7773-Prefer `Number.parseFloat` over `parseFloat`.2"" #@N
+
+javascriptS1186-Unexpected empty method 'componentDidUpdate'.2-- @c
+
+javascriptS3358DExtract this nested ternary operation into an independent statement.2TT' Rd
+
+javascriptS3358DExtract this nested ternary operation into an independent statement.2	TTU Äf
+
+javascriptS7762EPrefer `childNode.remove()` over `parentNode.removeChild(childNode)`.2ii )@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÇÇ €@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÉÉ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÑÑ ±@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÖÖ Ø@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÜÜ ª@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	áá ¿@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2àà ~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+®® 2@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+……0 R@Q
+
+javascriptS77212Move function 'newChildrenMap' to the outer scope.2⁄⁄ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÊÊ €@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÁÁ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ËË ¥@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÈÈ Ø@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÍÍ ª@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÎÎ ≈@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÏÏ «@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÌÌ Ω@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2ÓÓ o
+
+javascriptS4138LExpected a `for-of` loop instead of a `for` loop with this simple iteration.2
+≈œ 	@k
+
+javascriptS6638JUnexpected constant truthiness on the left-hand side of a `&&` expression.2
+˙˙ H~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+òò 6@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	∑∑ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	∏∏ ±@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2ππ Ä
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2„„Ñ ®@L
+
+javascriptS7721-Move function 'isPresent' to the outer scope.2ÖÖ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ìì …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ßß …@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2®® K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¥¥ …@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2µµ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	√√ …@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2ƒƒ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	÷÷ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	◊◊ ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÿÿ ∏@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2ŸŸ \
+
+javascriptS7721=Move function 'variantLabelsAsDependency' to the outer scope.2ÁÁ "K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÛÛ …@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2ÙÙ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÄÄ ƒ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÅÅ Ω@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ññ …@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2óó K
+
+javascriptS3504)Unexpected var, use let or const instead.2	•• …@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2¶¶ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¥¥ ±@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	µµ Æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	∆∆ ¡@S
+
+javascriptS77214Move function 'extractEventInfo' to the outer scope.2»» K
+
+javascriptS3504)Unexpected var, use let or const instead.2	‹‹ ¥@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	›› ¶@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ﬁﬁ ∑@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ﬂﬂ ≤@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	‡‡ ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	·· ƒ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	‚‚ æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	„„ ™@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	‰‰ ±@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÂÂ æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÊÊ ∂@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÁÁ ª@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ËË £@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÈÈ Œ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÍÍ ú@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÎÎ ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÏÏ Æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÌÌ ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÓÓ ≥@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÔÔ ¥@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	 ø@z
+
+javascriptS7757WPrefer class field declaration over `this` assignment in constructor for static values.2
+¸¸ !@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ññ B@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+∑∑ 7@P
+
+javascriptS7773-Prefer `Number.parseFloat` over `parseFloat`.2
+ªª0 :@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+«« I@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+’’ M@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+•• F@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+≠≠ 0@b
+
+javascriptS6660?'If' statement should not be the only statement in 'else' block2
+≈≈ @U
+
+javascriptS11354Complete the task associated to this "TODO" comment.2
+ﬂﬂ ~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+‡‡ -@ó
+
+javascriptS2681vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.2
+ÍÌ 	~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ÉÉ =@e
+
+javascriptS6644AUnnecessary use of conditional expression for default assignment.2≥≥ à@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ºº /@ó
+
+javascriptS2681vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.2
+‘‘ !~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ÍÍ 9@ó
+
+javascriptS2681vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.2
+¯¯ @~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+©	©	 =@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+√	√	 B@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ƒ	ƒ	 8@P
+
+javascriptS77211Move function 'skipFirstCall' to the outer scope.2’	’	 M
+
+javascriptS7721.Move function 'shouldDrag' to the outer scope.2Á	Á	 X
+
+javascriptS77217Move function 'getCurrentDirection' to the outer scope.2
+		  K
+
+javascriptS3504)Unexpected var, use let or const instead.2	Ç
+Ç
+ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	É
+É
+ ö@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	Ñ
+Ñ
+ ƒ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	–
+–
+ ™@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	—
+—
+ ª@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	“
+“
+ û@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	”
+”
+ õ@`
+
+javascriptS7721?Move function 'calcRelativeAxisConstraints' to the outer scope.2
+Ë
+Ë
+ (`
+
+javascriptS7721?Move function 'calcViewportAxisConstraints' to the outer scope.2
+˘
+˘
+ (Z
+
+javascriptS77219Move function 'rebaseAxisConstraints' to the outer scope.2
+°° "î
+
+javascriptS3403KRemove this "===" check; it will always be false. Did you mean to use "=="?2
+ØØ :
+¿
+ØØ :
+¿
+ØØ @î
+
+javascriptS3403KRemove this "===" check; it will always be false. Did you mean to use "=="?2
+±± :
+¿
+±± :
+¿
+±± #@V
+
+javascriptS77217Move function 'resolvePointElastic' to the outer scope.2øø K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÀÀ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÃÃ ±@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÕÕ ö@E
+
+javascriptS1186"Unexpected empty method 'unmount'.2
+ÌÌ @K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¯¯ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	˘˘ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	˙˙ ¶@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	˚˚ Æ@E
+
+javascriptS1186"Unexpected empty method 'unmount'.2
+íí @K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ùù ¶@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ûû ¡@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	üü ö@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	†† ®@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	°° ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¢¢ Æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	££ ®@z
+
+javascriptS7757WPrefer class field declaration over `this` assignment in constructor for static values.2
+≥≥ #@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ÏÏ <@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ÔÔ 6@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+˛˛ 4@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ÖÖ 8@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ôô V@`
+
+javascriptS6660?'If' statement should not be the only statement in 'else' block2
+ÂÂ ~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ÒÒ 6@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ÚÚ B@Q
+
+javascriptS77212Move function 'transformPoint' to the outer scope.2˜˜ P
+
+javascriptS77211Move function 'subtractPoint' to the outer scope.2¸¸ S
+
+javascriptS77214Move function 'startDevicePoint' to the outer scope.2ää R
+
+javascriptS77213Move function 'lastDevicePoint' to the outer scope.2çç K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÃÃ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÕÕ ¶@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ŒŒ ö@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	œœ ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	–– ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	—— ¥@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+˘˘ M@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+˝˝ *@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ââ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ää Æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ãã ¶@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	åå Æ@E
+
+javascriptS1186"Unexpected empty method 'unmount'.2
+™™ @K
+
+javascriptS3504)Unexpected var, use let or const instead.2	µµ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	∂∂ ≈@Í
+
+javascriptS3776TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.)      @2
+øø 
+:
+¿
+¿¿ 
++1:
+¿
+√√ 
++1:
+¿
+∆∆ 
++1:
+¿
+∆∆ +1:+
+)¿
+ÀÀ +2 (incl. 1 for nesting):
+¿
+ÿÿ +1:+
+)¿
+ÕÕ +3 (incl. 2 for nesting):
+¿
+ÕÕO Q+1:+
+)¿
+œœ +4 (incl. 3 for nesting):+
+)¿
+—— +5 (incl. 4 for nesting):
+¿
+ﬂﬂ 
++1:
+¿
+ﬂﬂ +1E
+
+javascriptS1186"Unexpected empty method 'unmount'.2
+ÔÔ @K
+
+javascriptS3504)Unexpected var, use let or const instead.2	˙˙ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	˚˚ π@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¸¸ ¬@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ßß ø@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	®® æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ææ ´@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	éé ∞@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	èè Ø@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	êê ƒ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ëë º@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	©© ®@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	™™ ®@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	´´ ®@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¨¨ æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	»» º@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	…… ƒ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	€€ €@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	‹‹ Ø@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	›› ¶@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ﬁﬁ ™@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ﬂﬂ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	‡‡ «@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	·· ¥@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	‚‚ ∫@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2„„ ~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+¸¸ ?@≠
+
+javascriptS3516;Refactor this function to not always return the same value.)       @2
+çç :"
+ ¿
+êê  $Returned value.:"
+ ¿
+¥¥ Returned value.U
+
+javascriptS11354Complete the task associated to this "TODO" comment.2
+íí ó
+
+javascriptS2681vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.2
+óó -~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ÆÆ 7@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+…… 0@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+   ;@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+œœ &@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÈÈ ´@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÍÍ ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÄÄ •@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÅÅ ¬@~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+≠≠ '@[
+
+javascriptS7721<Move function 'hasViewportOptionChanged' to the outer scope.2∆∆ !~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+ﬁﬁ @K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ââ €@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ää ú@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ãã …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	åå ¥@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	çç ≠@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	éé µ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	èè ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	êê π@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ëë µ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	íí «@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ìì «@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	îî ≈@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ïï ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ññ Ω@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	óó ∞@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	òò æ@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2ôô A
+
+javascriptS878!Unexpected use of comma operator.2
+»»* +ó
+
+javascriptS2681vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.2
+Õ÷ Y
+
+javascriptS46247Refactor this code to not use nested template literals.2ÿÿ[ ïH
+
+javascriptS1481'Remove unused function 'useStrictMode'.2
+··	 k
+
+javascriptS6638JUnexpected constant truthiness on the left-hand side of a `&&` expression.2
+ÊÊ LU
+
+javascriptS14814Remove unused function 'getProjectionFunctionality'.2
+ÎÎ	 #K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ãã …@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2åå K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¬¬ ¿@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	√√ ƒ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ƒƒ ¬@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	≈≈ ∫@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	∆∆ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	«« ∏@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	»» ±@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	…… Ø@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2   ·
+
+javascriptS3776TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.)      ;@2
+◊◊	 :
+¿
+⁄⁄ +1:
+¿
+‡‡ +1:
+¿
+‡‡ +1:+
+)¿
+·· 
++2 (incl. 1 for nesting):+
+)¿
+‚‚ 
++2 (incl. 1 for nesting):
+¿
+‰‰4 5+1:
+¿
+ÊÊ3 4+1:
+¿
+ÁÁ +1:
+¿
+ÁÁ +1:+
+)¿
+ËË1 2+2 (incl. 1 for nesting):+
+)¿
+ÎÎ +2 (incl. 1 for nesting):+
+)¿
+ÌÌ +3 (incl. 2 for nesting):+
+)¿
+ÔÔ +4 (incl. 3 for nesting):+
+)¿
+ÒÒ +5 (incl. 4 for nesting):+
+)¿
+ııD E+6 (incl. 5 for nesting):+
+)¿
+¯¯ +5 (incl. 4 for nesting):+
+)¿
+¸¸ +4 (incl. 3 for nesting)o
+
+javascriptS4138LExpected a `for-of` loop instead of a `for` loop with this simple iteration.2
+ÎÄ 	@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÃÃ ¢@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÕÕ ¶@A
+
+javascriptS878!Unexpected use of comma operator.2
+ﬁﬁ+ ,ó
+
+javascriptS2681vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.2
+ÏÓ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¸¸ ∑@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	˝˝ ±@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	˛˛ µ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ˇˇ ≥@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ìì √@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	îî æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ïï  @K
+
+javascriptS3504)Unexpected var, use let or const instead.2	££ µ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	§§ ∑@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	•• …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¶¶ «@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ªª ª@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ºº …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ΩΩ µ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ææ ¥@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	øø ¿@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¿¿ «@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2¡¡ e
+
+javascriptS107GFunction 'useRender' has too many parameters (8). Maximum allowed is 7.2»» C
+
+javascriptS1788"Default parameters should be last.2
+»»F `K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÁÁ ª@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ËË ∑@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	àà Ω@n
+
+javascriptS7765IUse `.includes()`, rather than `.indexOf()`, when checking for existence.2îî⁄ ·@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	§§ õ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	•• ¿@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	¶¶ À@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2ßß K
+
+javascriptS3504)Unexpected var, use let or const instead.2	∫∫ ª@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ªª ÷@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ºº æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ΩΩ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ææ À@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2øø d
+
+javascriptS6661AUse an object spread instead of `Object.assign` eg: `{ ...foo }`.2
+ŒŒ @e
+
+javascriptS3358DExtract this nested ternary operation into an independent statement.2
+ÊÊB `K
+
+javascriptS3504)Unexpected var, use let or const instead.2	≠≠ º@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÆÆ æ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ØØ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	∞∞ µ@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	±±  @d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2≤≤ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	◊◊ ô@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÿÿ ¿@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ŸŸ  @d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2⁄⁄ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÎÎ À@R
+
+javascriptS7769/Prefer `Math.hypot(‚Ä¶)` over `Math.sqrt(‚Ä¶)`.2
+ÅÅ @N
+
+javascriptS7721/Move function 'isRefObject' to the outer scope.2££ m
+
+javascriptS6653JUse 'Object.hasOwn()' instead of 'Object.prototype.hasOwnProperty.call()'.2
+§§- a@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ØØ …@K
+
+javascriptS7721*Move function 'setRef' to the outer scope.2
+∂∂ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÏÏ …@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2ÌÌ K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÖÖ …@K
+
+javascriptS3504)Unexpected var, use let or const instead.2	ÜÜ ≠@d
+
+javascriptS905FExpected an assignment or function call and instead saw an expression.2áá 
